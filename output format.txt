@@ -1,0 +1,5 @@
+For each transaction:
+
+Print "Success" if the transaction was completed successfully.
+
+Print "Failure" if the transaction failed

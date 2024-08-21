@@ -1,0 +1,4 @@
+The first line contains an integer N, the number of users.
+The next N lines each contain two integers: userID and balance, where userID is the user's identifier, and balance is the user's current balance
+The next line contains an integer T , the number of transactions.
+The next T lines each contain three integers: from_userID, to_userID, amount, where from_userID and to_userID are the identifiers of the users involved in the transaction, amount is the amount transferred
